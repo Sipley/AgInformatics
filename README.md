@@ -1,5 +1,5 @@
 # AgInformatics
-Python scripts written for a special topics course in solving problems with python -- with an emphasis on making research incorporating lots of data & bioinformatics tools a little less painful. 
+Python scripts written for a graduate level special topics course in solving problems with python -- with an emphasis on making research incorporating lots of data & bioinformatics tools a little less painful. 
 
 WARNING: very much a work in progress
 
